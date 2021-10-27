@@ -47,7 +47,8 @@ sql (for database)
 Flask (for API creation)
 ```
   
-<img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="60"> ## Contributor 
+<img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="60">## Contributor 
+
 [Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/) with [iNeuron Inc.](https://ineuron.ai/)
  
 
