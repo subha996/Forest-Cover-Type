@@ -18,7 +18,7 @@ It was our Project to build a classification methodology to build a system that 
 
 
 ## ⛩ Architecture Design
-![ML Project Flow drawio](https://user-images.githubusercontent.com/85347886/139098857-75758f8e-fa14-4f97-95d9-c31d13b1368b.png)
+![ML Flow Diagram](https://user-images.githubusercontent.com/85347886/139099623-527a57cd-7987-4e04-b8d9-d0aa4cde6650.png)
 
 
 
