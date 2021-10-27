@@ -24,5 +24,28 @@ It was our Project to build a classification methodology to build a system that 
 <img align="center" src="https://user-images.githubusercontent.com/85347886/139099623-527a57cd-7987-4e04-b8d9-d0aa4cde6650.png" >
 </p>
 
-
+<h2 align="center">🛠 Technology Used <h2>
+ 
+ ```
+Python (core language)
+```
+```
+pandas (for data manipulation)
+```
+```
+numpy (for numerical computation)
+```
+```
+sklearn (ML library)
+```
+``` 
+sql (for database)
+```
+```
+Flask (for API creation)
+```
+  
+## Contributor
+[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/) with [iNeuron Inc.](https://ineuron.ai/)
+ 
 
