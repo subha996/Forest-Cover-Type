@@ -18,7 +18,7 @@ The government is used to employ officers for inspection of the various region t
 It was our Project to build a classification methodology to build a system that will be able to predict Forest Cover type based on geographical information.
 
 
-## ⛩ Architecture Design
+<h2 align="center"> ⛩ Architecture Design </h2>
 ![ML Flow Diagram](https://user-images.githubusercontent.com/85347886/139099623-527a57cd-7987-4e04-b8d9-d0aa4cde6650.png)
 
 
