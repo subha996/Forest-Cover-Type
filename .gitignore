@@ -1,0 +1,7 @@
+.idea/
+data/
+Prediction_Batch_files/
+PredictionArchivedBadData/
+TrainingArchiveBadData/
+Training_FileFromDB/
+Procfile
