@@ -31,19 +31,24 @@ It was our Problem statement to build a classification methodology to build a sy
  ```
 Python (core language)
 ```
-```
+
+  ```
 pandas (for data manipulation)
 ```
-```
+
+  ```
 numpy (for numerical computation)
 ```
-```
+
+  ```
 sklearn (ML library)
 ```
-``` 
+
+  ``` 
 sql (for database)
 ```
-```
+
+  ```
 Flask (for API creation)
 ```
   
