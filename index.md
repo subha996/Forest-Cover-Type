@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<p align="center">
+<img src="https://forthebadge.com/images/badges/made-with-python.svg" >
+</p>
 
-You can use the [editor on GitHub](https://github.com/subha996/Forest-Cover-Type/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  <img width="600" src="https://readme-typing-svg.herokuapp.com?color=%231DF702&lines=Forest+Cover+Type+Preiction" >
+</p>
+  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center">
+  <img width="800" height="400" src="https://images2.minutemediacdn.com/image/upload/c_crop,h_1351,w_2400,x_0,y_0/v1571796144/shape/mentalfloss/604599-gettyimages-1083893950.jpg?itok=om3ZU-xi" >
+  </p>
 
-### Markdown
+<h2 align="center">
+ Problem Statement 
+ </h2>
+The government is used to employ officers for inspection of the various region to find the Forest cover type are present in a specific region. This process needs a huge amount of manpower, time along money. They have to visit the forest regions manually and have to inspect them to Label the Forest type for that region. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+They have collected various geographical information like Elevation, Aspect, and it was observed that the forest type is dependent on this information. It was found that there is some strong relation between collected information and the Forest Cover labels. 
+It was our Problem statement to build a classification methodology to build a system that will be able to predict Forest Cover type based on geographical information.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2 align="center"> ⛩ Architecture Design </h2>
 
-- Bulleted
-- List
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/85347886/139099623-527a57cd-7987-4e04-b8d9-d0aa4cde6650.png" >
+</p>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+<h2 align="center">🛠 Technology Used <h2>
+ 
+ ```
+Python (core language)
 ```
+```
+pandas (for data manipulation)
+```
+```
+numpy (for numerical computation)
+```
+```
+sklearn (ML library)
+```
+``` 
+sql (for database)
+```
+```
+Flask (for API creation)
+```
+  
+## Contributor <img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="30"> 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/subha996/Forest-Cover-Type/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Subhabrata Nath](https://www.linkedin.com/in/subhabrata-nath-181375115/) with [iNeuron Inc.](https://ineuron.ai/)
