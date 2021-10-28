@@ -20,37 +20,16 @@ They have collected various geographical information like Elevation, Aspect, and
 It was our Problem statement to build a classification methodology to build a system that will be able to predict Forest Cover type based on geographical information.
 
 
+
 <h2 align="center"> ⛩ Architecture Design </h2>
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/85347886/139099623-527a57cd-7987-4e04-b8d9-d0aa4cde6650.png" >
+<img align="center" src="https://user-images.githubusercontent.com/85347886/139302640-ca83de74-b4d5-4750-abc0-eb9b4ffdcd23.png" >
 </p>
 
 <h2 align="center">🛠 Technology Used <h2>
  
- ```
-Python (core language)
-```
 
-  ```
-pandas (for data manipulation)
-```
-
-  ```
-numpy (for numerical computation)
-```
-
-  ```
-sklearn (ML library)
-```
-
-  ``` 
-sql (for database)
-```
-
-  ```
-Flask (for API creation)
-```
   
 ## Contributor <img src="https://media3.giphy.com/media/1wrgDc6j07hAlM7Jml/giphy.gif?cid=790b7611e3af35beee6df1266c31edcabc53abfbbb82854c&rid=giphy.gif&ct=g" width="30"> 
 
