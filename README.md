@@ -23,7 +23,7 @@ It was our Problem statement to build a classification methodology to build a sy
 <h2 align="center"> ⛩ Architecture Design </h2>
 
 <p align="center">
-<img align="center" src="![ML Project Flow drawio](https://user-images.githubusercontent.com/85347886/139301781-b2c680ee-a49e-4a68-bcaa-6487565c296e.png)" >
+<img align="center" src="https://user-images.githubusercontent.com/85347886/139301781-b2c680ee-a49e-4a68-bcaa-6487565c296e.png" >
 </p>
 
 <h2 align="center">🛠 Technology Used <h2>
